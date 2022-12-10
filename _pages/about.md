@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: cristobal.loyola [at] sorbonne-universite.fr
 
 profile:
   align: right
