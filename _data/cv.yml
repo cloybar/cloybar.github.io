@@ -4,9 +4,9 @@
     - name: Full Name
       value: Cristóbal Loyola
     - name: Date of Birth
-      value: 14th March 1879
+      value: 31th January 1997
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
@@ -23,7 +23,7 @@
             - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Part-time lecturer
+      institution: Departamento de Matemática, Universidad Técnica Federico Santa María
+      year: 2021-2022
       description:
         - Description 1.
         - Description 2.
