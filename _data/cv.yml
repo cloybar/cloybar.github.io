@@ -43,7 +43,7 @@
   contents:
     - title: Part-time lecturer
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
-      year: 2021-2022
+      year: 2021 - 2022
       description:
         - title: Basic science for engineering courses
           contents:
@@ -60,7 +60,7 @@
     #     - Description 2.
     - title: Teaching assistant
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
-      year: 2016-2020
+      year: 2016 - 2020
       description:
         - title: Undergraduate math
           contents:
@@ -131,12 +131,12 @@
 - title: Math related activities
   type: list
   contents:
-    - year: 2017-2018
+    - year: 2017 - 2018
       items:
       - Tutor of the 3rd, 4th and 5th versions of STEM camp, Universidad Técnica Federico Santa María, Valparaíso - Chile
-    - year: 2015-2017
+    - year: 2015 - 2017
       items:
-      - Main organizer of VI, VII and VIII versions of Jornada Interescolar de Matemática for secondary education students, Departamento de Matemática Universidad Técnica Federico Santa María, Valparaíso - Chile
+      - Main organizer of VI, VII and VIII versions of Jornada Interescolar de Matemática for high school students, Departamento de Matemática Universidad Técnica Federico Santa María, Valparaíso - Chile
     - year: 2017
       items:
       - '¿Has jugado Pac-man en una taza?' Stand at 3rd version of Math festival organized by SOMACHI, San Antonio - Chile
