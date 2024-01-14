@@ -45,15 +45,13 @@
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
       year: 2021-2022
       description:
-        - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
-        - Vector calculus and PDEs (S2-2021)
-        - Integral calculus in one variable (S1-2022)
-        - Differential calculus in one variable (S2-2022)
-        - Linear Algebra (S1-2022)
         - title: Basic science for engineering courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
+            - Vector calculus and PDEs (S2-2021)
+            - Integral calculus in one variable (S1-2022)
+            - Differential calculus in one variable (S2-2022)
+            - Linear Algebra (S1-2022)
     # - title: Visiting Professor
     #   institution: California Institute of Technology, Pasadena, California, US
     #   year: 1933
