@@ -41,22 +41,30 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Part-time lecturer
+    - title: Part-time lecturer on basic science for engineering courses
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
       year: 2021-2022
-      description: hola
-        - hola
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      description:
+        - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
+        - Vector calculus and PDEs (S2-2021)
+        - Integral calculus in one variable (S1-2022)
+        - Differential calculus in one variable (S2-2022)
+        - Linear Algebra (S1-2022)
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     # - title: Visiting Professor
     #   institution: California Institute of Technology, Pasadena, California, US
     #   year: 1933
     #   description:
     #     - Description 1.
     #     - Description 2.
+    - title: Teaching assistant
+      institution: Departamento de Matemática, Universidad Técnica Federico Santa María
+      year: 2016-2020
+      description:
+        - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
 
 #     - title: Director
 #       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
