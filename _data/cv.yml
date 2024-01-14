@@ -62,8 +62,13 @@
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
       year: 2016-2020
       description:
-        - Functional Analysis (S1-2018), Measure Theory (S2-2019, S2-2020), Complex Analysis (S2-2017), Optimization and Control of Linear Systems (S1-2020)
-        - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
+        - title: Undergraduate math
+          contents:
+            - Functional Analysis (S1-2018), Measure Theory (S2-2019, S2-2020), Complex Analysis (S2-2017), Optimization and Control of Linear Systems (S1-2020)
+            
+        - title: Basic science for engineering
+          contents: 
+            - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
 
 #     - title: Director
 #       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
