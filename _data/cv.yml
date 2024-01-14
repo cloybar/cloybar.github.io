@@ -128,6 +128,13 @@
 #         - Description 1.
 #         - Description 2.
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - MathInParis2020 Fellowship, granted by the Fondation Sciences de Mathématiques de Paris, France
+
 - title: Math related activities
   type: time_table
   contents:
