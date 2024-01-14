@@ -6,7 +6,7 @@
     # - name: Date of Birth
       # value:  
     - name: Languages
-      value: Spanish, English, Portuguese (basic), French (basic)
+      value: Spanish, English, French (basic), Portuguese (basic)
 
 - title: Education
   type: time_table
@@ -45,7 +45,7 @@
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
       year: 2021 - 2022
       description:
-        - title: Basic science for engineering courses
+        - title: Basic science for engineering
           contents:
             - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
             - Vector calculus and PDEs (S2-2021)
@@ -62,14 +62,14 @@
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
       year: 2016 - 2020
       description:
-        - title: Undergraduate math
+        - title: Undergraduate
           contents:
             - Functional Analysis (S1-2018)
             - Measure Theory (S2-2019, S2-2020)
             - Complex Analysis (S2-2017)
             - Optimization and Control of Linear Systems (S1-2020)
         
-        - title: Postgraduate math
+        - title: Postgraduate
           contents:
           - Inverse problems for PDEs (S2-2020)
 
@@ -105,7 +105,7 @@
   contents:
     - year: 2022
       items: 
-        - MathInParis2020 Fellowship, granted by the Fondation Sciences de Mathématiques de Paris, France
+        - MathInParis2020 Fellowship, granted by the <a href="https://sciencesmaths-paris.fr/">Fondation Sciences de Mathématiques</a> de Paris, France
     - year: 2020
       items: 
         - National Master of Sciences 2020 Scholarship, granted by Agencia Nacional de Investigación y Desarrollo, ANID, Chile
@@ -128,26 +128,18 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - MathInParis2020 Fellowship, granted by the Fondation Sciences de Mathématiques de Paris, France
-
 - title: Math related activities
   type: time_table
   contents:
     - year: 2017 - 2018
-      items:
-      - Tutor of the 3rd, 4th and 5th versions of STEM camp, Universidad Técnica Federico Santa María, Valparaíso - Chile
-    - year: 2015 - 2017
-      items:
-      - Main organizer of VI, VII and VIII versions of Jornada Interescolar de Matemática for high school students, Departamento de Matemática Universidad Técnica Federico Santa María, Valparaíso - Chile
+      items: 
+        - Tutor of the 3rd, 4th and 5th versions of STEM camp, Universidad Técnica Federico Santa María, Valparaíso - Chile
+    - year: 2015 - 2018
+      items: 
+        - Main organizer of VI, VII and VIII versions of Jornada Interescolar de Matemática for high school students, Departamento de Matemática Universidad Técnica Federico Santa María, Valparaíso - Chile
     - year: 2017
-      items:
-      - '¿Has jugado Pac-man en una taza?' Stand at 3rd version of Math festival organized by SOMACHI, San Antonio - Chile
-      # <a href="https://festivaldematematica.cl/sanantonio/">Math Festival</a>
+      items: 
+        - Stand "¿Has jugado Pac-man en una taza?" at 3rd version of <a href="https://festivaldematematica.cl/sanantonio/">Math Festival</a> organized by SOMACHI, San Antonio - Chile
 
 
 - title: Other Interests

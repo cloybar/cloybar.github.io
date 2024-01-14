@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr) in [Sorbonne Université](https://www.sorbonne-universite.fr). I am working under the supervision of [Camille Laurent](https://www.ljll.math.upmc.fr/~laurent/) (LJLL).
+I am a PhD student at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr) at [Sorbonne Université](https://www.sorbonne-universite.fr). I am working under the supervision of [Camille Laurent](https://www.ljll.math.upmc.fr/~laurent/) (LJLL).
 
-Previously I obtained the MSc. in Mathematics and the professional title of Mathematical Engineer at [Universidad Técnica Federico Santa María](https://usm.cl) in Valparaíso, Chile. My Master's thesis was directed by [Nicolás Carreño](http://ncarreno.mat.utfsm.cl) and co-directed by [Alberto Mercado](http://amercado.mat.utfsm.cl/).
+Previously, I obtained the MSc. in Mathematics and the professional title of Mathematical Engineer at [Universidad Técnica Federico Santa María](https://usm.cl) in Valparaíso, Chile. My Master's thesis was directed by [Nicolás Carreño](http://ncarreno.mat.utfsm.cl) and co-directed by [Alberto Mercado](http://amercado.mat.utfsm.cl/).
 
 I am interested in the Control of Partial Differential Equations, particularly those of dispersive type.
 
