@@ -129,7 +129,7 @@
 #         - Description 2.
 
 - title: Math related activities
-  type: list
+  type: time_table
   contents:
     - year: 2017 - 2018
       items:
