@@ -41,7 +41,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Part-time lecturer on basic science for engineering courses
+    - title: Part-time lecturer
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
       year: 2021-2022
       description:
@@ -50,10 +50,10 @@
         - Integral calculus in one variable (S1-2022)
         - Differential calculus in one variable (S2-2022)
         - Linear Algebra (S1-2022)
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
+        - title: Basic science for engineering courses
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     # - title: Visiting Professor
     #   institution: California Institute of Technology, Pasadena, California, US
     #   year: 1933
@@ -64,6 +64,7 @@
       institution: Departamento de Matemática, Universidad Técnica Federico Santa María
       year: 2016-2020
       description:
+        - Functional Analysis (S1-2018), Measure Theory (S2-2019, S2-2020), Complex Analysis (S2-2017), Optimization and Control of Linear Systems (S1-2020)
         - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
 
 #     - title: Director
