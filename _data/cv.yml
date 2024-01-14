@@ -64,11 +64,21 @@
       description:
         - title: Undergraduate math
           contents:
-            - Functional Analysis (S1-2018), Measure Theory (S2-2019, S2-2020), Complex Analysis (S2-2017), Optimization and Control of Linear Systems (S1-2020)
-            
+            - Functional Analysis (S1-2018)
+            - Measure Theory (S2-2019, S2-2020)
+            - Complex Analysis (S2-2017)
+            - Optimization and Control of Linear Systems (S1-2020)
+        
+        - title: Postgraduate math
+          contents:
+          - Inverse problems for PDEs (S2-2020)
+
         - title: Basic science for engineering
           contents: 
-            - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
+            - Differential calculus of several variables and ODEs (S1-2017, S1-2018, S1-2019)
+            - Vector calculus and PDEs (S2-2017, S2-2018, S2-2019)
+            - Differential calculus and Algebra (S1-2016)
+            - Integral calculus and Introduction to Linear Algebra (S2-2016)
 
 #     - title: Director
 #       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -102,18 +112,35 @@
     - year: 2015 - 2020
       items:
       - Member of the Honor List, Universidad Técnica Federico Santa María, Valparaíso - Chile
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    
+    - year: 2014
       items:
-        - Description 1.
-        - Description 2.
+      - Honourable mention at National Final XXII Chilean Physics Olympiad, Universidad de Talca, Talca - Chile
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+- title: Math related activities
+  type: list
+  contents:
+    - year: 2017-2018
+      items:
+      - Tutor of the 3rd, 4th and 5th versions of STEM camp, Universidad Técnica Federico Santa María, Valparaíso - Chile
+    - year: 2015-2017
+      items:
+      - Main organizer of VI, VII and VIII versions of Jornada Interescolar de Matemática for secondary education students, Departamento de Matemática Universidad Técnica Federico Santa María, Valparaíso - Chile
+    - year: 2017
+      - '¿Has jugado Pac-man en una taza?' Stand at 3rd version of <a href="https://festivaldematematica.cl/sanantonio/">Math Festival</a> organized by SOMACHI, San Antonio - Chile
+
 
 - title: Other Interests
   type: list
