@@ -93,12 +93,12 @@
 #       institution: University of Zurich, Zurich, Switzerland
 #       year: 1909 - 1911
 
-title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -139,7 +139,8 @@ title: Open Source Projects
       - Main organizer of VI, VII and VIII versions of Jornada Interescolar de Matemática for secondary education students, Departamento de Matemática Universidad Técnica Federico Santa María, Valparaíso - Chile
     - year: 2017
       items:
-      # - '¿Has jugado Pac-man en una taza?' Stand at 3rd version of <a href="https://festivaldematematica.cl/sanantonio/">Math Festival</a> organized by SOMACHI, San Antonio - Chile
+      - '¿Has jugado Pac-man en una taza?' Stand at 3rd version of Math festival organized by SOMACHI, San Antonio - Chile
+      # <a href="https://festivaldematematica.cl/sanantonio/">Math Festival</a>
 
 
 - title: Other Interests
