@@ -6,7 +6,7 @@ subtitle: cristobal.loyola [at] sorbonne-universite.fr
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: cloybar_triangulo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>15-25 Bureau 326</p>
