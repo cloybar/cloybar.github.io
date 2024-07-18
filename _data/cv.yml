@@ -11,87 +11,168 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Mathematics
+      institution: Sorbonne Université, Paris, France
+      year: 2022-
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: MSc in Mathematics
+      institution: Universidad Técnica Federico Santa María, Valparaíso, Chile
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - <span>Thesis:<span> Global Carleman inequalities for Korteweg-de Vries equations with applications to controllability and inverse problems
+        - <span>Advisor:<span> Nicolas Carreño
+        - <span>Co-Advisor:<span> Alberto Mercado
+
+    - title: Mathematical Engineering
+      institution: Universidad Técnica Federico Santa María, Valparaíso, Chile
+      year: 2015 - 2021
+
+    - title: BSc in Mathematical Engineering
+      institution: Universidad Técnica Federico Santa María, Valparaíso, Chile
+      year: 2015 - 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Part-time lecturer
+      institution: Departamento de Matemática, Universidad Técnica Federico Santa María
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Basic science for engineering
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Differential calculus of several variables and ODEs (S1-2021, S1-2022)
+            - Vector calculus and PDEs (S2-2021)
+            - Integral calculus in one variable (S1-2022)
+            - Differential calculus in one variable (S2-2022)
+            - Linear Algebra (S1-2022)
+    - title: Teaching assistant
+      institution: Departamento de Matemática, Universidad Técnica Federico Santa María
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - title: Undergraduate
+          contents:
+            - Functional Analysis (S1-2018)
+            - Measure Theory (S2-2019, S2-2020)
+            - Complex Analysis (S2-2017)
+            - Optimization and Control of Linear Systems (S1-2020)
+        
+        - title: Master
+          contents:
+          - Inverse problems for PDEs (S2-2020)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - title: Basic science for engineering
+          contents: 
+            - Differential calculus of several variables and ODEs (S1-2017, S1-2018, S1-2019)
+            - Vector calculus and PDEs (S2-2017, S2-2018, S2-2019)
+            - Differential calculus and Algebra (S1-2016)
+            - Integral calculus and Introduction to Linear Algebra (S2-2016)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
+      items: 
+        - MathInParis2020 Fellowship, granted by the <a href="https://sciencesmaths-paris.fr/">Fondation Sciences de Mathématiques</a> de Paris, France
+    - year: 2020
+      items: 
+        - National Master of Sciences 2020 Scholarship, granted by Agencia Nacional de Investigación y Desarrollo, ANID, Chile
+    - year: 2015 - 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+      - Member of the Honor List, Universidad Técnica Federico Santa María, Valparaíso - Chile
+    - year: 2014
       items:
-        - Max Planck Medal
+      - Honourable mention at National Final XXII Chilean Physics Olympiad, Universidad de Talca, Talca - Chile
 
-- title: Academic Interests
-  type: nested_list
+- title: Math related activities
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - year: 2017 - 2018
+      items: 
+        - Tutor of the 3rd, 4th and 5th versions of STEM camp, Universidad Técnica Federico Santa María, Valparaíso - Chile
+    - year: 2015 - 2018
+      items: 
+        - Main organizer of VI, VII and VIII versions of Jornada Interescolar de Matemática for high school students, Departamento de Matemática Universidad Técnica Federico Santa María, Valparaíso - Chile
+    - year: 2017
+      items: 
+        - Stand "¿Has jugado Pac-man en una taza?" at 3rd version of <a href="https://festivaldematematica.cl/sanantonio/">Math Festival</a> organized by SOMACHI, San Antonio - Chile
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Climbing and a little bit of juggling. I am also passionate about the specialty coffee world!
+
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
