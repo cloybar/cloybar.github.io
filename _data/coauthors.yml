@@ -1,7 +1,7 @@
 "Carreño":
-  - firstname: ["Nicolás", "N.", "N. C.", "Nicolás Carreño"]
+  - firstname: ["Nicolás", "N.", "N. C.", "Nicolás Carreño", "Carreño", "Carreño, Nicolás"]
     url: http://ncarreno.mat.utfsm.cl
 
 "Laurent":
-  - firstname: ["Camille"]
-    url: http://www.ljll.fr/~laurent/
+  - firstname: ["Camille", "Laurent", "Laurent, Camille"]
+    url: https://laurentca.perso.math.cnrs.fr/
