@@ -9,9 +9,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Mathematics
+    - title: PhD in Applied Mathematics
       institution: Sorbonne Université, Paris, France
-      year: 2022 -
+      year: 2022 - 2025
       # description:
     - title: Magíster en Ciencias mencion Matemática
       institution: Universidad Técnica Federico Santa María, Valparaíso, Chile
@@ -43,9 +43,9 @@
       institution: Universidad Técnica Federico Santa María, Valparaíso, Chile
       year: 2016 - 2020
       description:
-        - title: Undergraduate math courses
+        - title: Graduate math courses
           contents:
-            - Inverse problems (S2-2020)
+            - Inverse problems in PDEs (S2-2020)
         - title: Undergraduate math courses
           contents:
             - Functional Analysis (S1-2018), Measure Theory (S2-2019, S2-2020), Complex Analysis (S2-2017), Optimization and Control of linear systems (S1-2020 at Campus Casa Central and Campus San Joaquín)
@@ -90,12 +90,14 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - title: MathInParis2020 Fellowship
+      year: 2022
       items:
-        - MathInParis2020 Fellowship, Fondation Sciences Mathématiques de Paris
-    - year: 2020
+        - Fondation Sciences Mathématiques de Paris, FSMP
+    - title: National Master of Sciences 2020 Scholarship
+      year: 2020
       items:
-        - National Master of Sciences 2020 Scholarship, Agencia Nacional de Investigación y Desarrollo, ANID
+        - Agencia Nacional de Investigación y Desarrollo, ANID
 
 # - title: Academic Interests
 #   type: nested_list
