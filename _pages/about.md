@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the [Laboratoire Jacques-Louis Lions](https://www.ljll.fr/) at [Sorbonne Université](https://www.sorbonne-universite.fr). I am working under the supervision of [Camille Laurent](https://laurentca.perso.math.cnrs.fr/) (CNRS, URCA, Reims).
+In November 2025 I defended my PhD thesis at the [Laboratoire Jacques-Louis Lions](https://www.ljll.fr/) at [Sorbonne Université](https://www.sorbonne-universite.fr), under the supervision of [Camille Laurent](https://laurentca.perso.math.cnrs.fr/) (CNRS, URCA, Reims).
 
 Previously, I obtained the MSc. in Mathematics and the professional title of Mathematical Engineer at [Universidad Técnica Federico Santa María](https://usm.cl) in Valparaíso, Chile. My Master's thesis was directed by [Nicolás Carreño](http://ncarreno.mat.utfsm.cl) and [Alberto Mercado](http://amercado.mat.utfsm.cl/).
 

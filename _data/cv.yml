@@ -9,8 +9,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Applied Mathematics
-      institution: Sorbonne Université, Paris, France
+    - title: Thèse de Doctorat en Mathématiques Appliquées
+      institution: Sorbonne Université, Laboratoire Jacques-Louis Lions, Paris, France
       year: 2022 - 2025
       # description:
     - title: Magíster en Ciencias mencion Matemática
@@ -84,7 +84,7 @@
     - title: Uniform observability of linear dispersive PDEs
       institution: Universidad Politécnica de Madrid, Madrid, España
       year: 2024
-      description: Invitation by the Professor Fabricio Macià for two months (October-November)
+      description: Invitation by the Professor Fabricio Macià from October 12th to December 12th.
 
 
 - title: Honors and Awards
@@ -118,4 +118,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Climbing and specialty coffee (I also used to juggle)
+    - Climbing and specialty coffee (I also used to juggle, I hope to return to it soon!)
