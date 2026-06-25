@@ -81,6 +81,10 @@
 - title: Research visits
   type: time_table
   contents:
+    - title: Control of the nonlinear Schrödinger equation
+      institution: Université de Tunis El Manar, Tunis, Tunisia
+      year: 2026
+      description: Invitation by the Professor Belhassen Dehman from May 18th to 22nd.
     - title: Uniform observability of linear dispersive PDEs
       institution: Universidad Politécnica de Madrid, Madrid, España
       year: 2024
