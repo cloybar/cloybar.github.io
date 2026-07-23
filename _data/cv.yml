@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Thèse de Doctorat en Mathématiques Appliquées
+    - title: Thèse de Doctorat en Mathématiques
       institution: Sorbonne Université, Laboratoire Jacques-Louis Lions, Paris, France
       year: 2022 - 2025
       # description:
@@ -19,7 +19,7 @@
       # description:
       #   - Description 1.
       #   - Description 2.
-    - title: Ingeniería Matemática
+    - title: Ingeniería Civil Matemática
       institution: Universidad Técnica Federico Santa María, Valparaíso, Chile
       year: 2015 - 2021
 
